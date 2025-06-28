@@ -45,3 +45,6 @@ The conversation is managed through the Chat class provided by NLTK’s nltk.cha
 
 ## Conclusion:
 This project shows that building an AI-based chatbot doesn’t require large datasets or advanced machine learning models. With just Python and NLTK, it’s possible to develop an interactive assistant capable of answering queries in a human-like manner. It demonstrates the power of simple NLP tools and serves as a stepping stone to more advanced chatbot development in the future. Thank you to **CodTech IT Solutions** for assigning this creative and educational task as part of their internship program. It has given me valuable experience in applying NLP techniques in real-world use cases and improving my Python development skills.
+
+# Output:
+![Image](https://github.com/user-attachments/assets/8bce45d3-26b3-42b9-9547-6e3220c4cf12)
